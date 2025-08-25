@@ -1,9 +1,6 @@
-# FreshNCook
-
+## FreshNCook
 
 https://studio--recipe-remixer-kdvyi.us-central1.hosted.app/
-
-
 
 FreshNcook is an AI-powered web application designed to reduce food waste and promote healthier living. Users upload images of vegetables or fruits, then the app detects the ingredients, evaluates their freshness and spoilage status, and suggests recipes to use nonspoiled items. It also tracks spoiled items separately to prevent waste.
 
@@ -56,4 +53,33 @@ Backend: Node.js + Firebase / Express.
 
 🤖 Brings AI to Everyday Cooking
 
-❤ Helps the Needy through donation integration
+❤ Helps the Needy through donation integration
+
+## 🗺 Roadmap
+
+
+🔹 Pantry scanning with OCR
+
+🔹 Spoilage detection for fruits/vegetables
+
+🔹 AI recipe generation
+
+🔹 Multilingual recipe explanations
+
+🔹 Meal type & cuisine customization
+
+🔹 Chat assistant for recipes
+
+🔹 Location integration for donation centers
+
+🔹 Community recipe sharing feature
+## 🔗 Integrated APIs
+
+
+🤖 Gemini AI → Powers ingredient extraction, recipe suggestions, spoilage detection, meal planning, translations, recipe images, and text-to-speech narration.
+
+⚡ Genkit → Orchestrates all AI workflows with Flows, structured prompts, and schema-based outputs for seamless integration.
+
+https://www.npmjs.com/package/dotenv
+
+https://genkit.dev/
