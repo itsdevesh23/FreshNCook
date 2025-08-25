@@ -1,7 +1,7 @@
 # FreshNCook
 
 
-[Uploading How can the solution be improved in the future In future we can make the app smarter by adding AI that gives personal diet charts and health tips based on user needs. Blockchain can also be used .pptx…]()
+https://studio--recipe-remixer-kdvyi.us-central1.hosted.app/
 
 
 
