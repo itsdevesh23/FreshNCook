@@ -53,13 +53,5 @@ const sendExpirationAlertsFlow = ai.defineFlow(
       .join(', ');
 
     const messageBody = `Heads up from FreshNCook! These ingredients are expiring soon: ${expiringItemsText}. Time to cook them up!`;
-
-    try {
-      await sendSms(phoneNumber, messageBody);
-      return { message: `Alert sent successfully to ${phoneNumber}!` };
-    } catch (error: any) {
-      console.error("Failed to send SMS:", error);
-      throw new Error(`Failed to send expiration alert. Please check your Twilio configuration. Error: ${error.message}`);
-    }
   }
 );
