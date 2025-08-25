@@ -1,6 +1,10 @@
 # FreshNCook
 
 
+[Uploading How can the solution be improved in the future In future we can make the app smarter by adding AI that gives personal diet charts and health tips based on user needs. Blockchain can also be used .pptx…]()
+
+
+
 FreshNcook is an AI-powered web application designed to reduce food waste and promote healthier living. Users upload images of vegetables or fruits, then the app detects the ingredients, evaluates their freshness and spoilage status, and suggests recipes to use nonspoiled items. It also tracks spoiled items separately to prevent waste.
 
 
